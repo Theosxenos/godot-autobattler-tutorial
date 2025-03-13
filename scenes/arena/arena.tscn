@@ -74,5 +74,4 @@ metadata/_edit_lock_ = true
 metadata/_edit_group_ = true
 
 [node name="Highlight" type="TileMapLayer" parent="Bench"]
-position = Vector2(160, 32)
 tile_set = ExtResource("1_gxg74")
